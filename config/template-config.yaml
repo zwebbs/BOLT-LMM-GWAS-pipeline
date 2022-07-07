@@ -1,0 +1,11 @@
+---
+# File Name: template-config.yaml
+# Created By: ZW
+# Created On: 2022-07-07
+# Purpose: Template configuration for the BOLT-LMM GWAS pipeline
+
+analysis_name: 'test-GWAS'
+working_directory: '`pwd`'
+core_files:
+  core_files_format: 'bgen | pgen | plinkbf | plinkf'
+  core_files_prefix: 'test-cohort'
