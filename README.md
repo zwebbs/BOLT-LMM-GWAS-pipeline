@@ -12,7 +12,7 @@
 ## Setting up the compute environment
 
 To build the python environment for running the snakemake pipeline, load `python 3.8.10` or compatible equivalent, then create the virtual environment and install pip dependencies.
-```
+```bash
 # load base python3
 module load gcc/9.4.0   # only relavent for use on Gardner
 module load python/3.8.10   # only relavent for use on Gardner
