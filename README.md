@@ -5,6 +5,7 @@
 
 
 [Setting up the compute environment](#setting_up_compute)
+
 [Running the pipeline](#run_pipeline)
 
 
@@ -27,6 +28,7 @@ python3 -m pip install -r env/snakemake/requirements.txt
 
 ```
 
+\
 <a name=run_pipeline />
 ## Running the pipeline
 
