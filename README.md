@@ -4,9 +4,8 @@
 ## Table of Contents
 
 
-[Setting up the compute environment](#setting_up_compute)
-
-[Running the pipeline](#run_pipeline)
+1. [Setting up the compute environment](#setting_up_compute)
+2. [Running the pipeline](#run_pipeline)
 
 
 \
